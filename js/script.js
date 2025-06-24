@@ -47,16 +47,6 @@ document.addEventListener("DOMContentLoaded", () => {
     })
   })
 
-  // Form submission (for demo purposes)
-  const contactForm = document.getElementById("contact-form")
-  if (contactForm) {
-    contactForm.addEventListener("submit", (e) => {
-      e.preventDefault()
-      alert("Thank you for your message! This is a demo form, so no message was actually sent.")
-      contactForm.reset()
-    })
-  }
-
   // Header scroll effect
   const header = document.querySelector("header")
   window.addEventListener("scroll", () => {

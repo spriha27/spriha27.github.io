@@ -44,6 +44,4 @@ A static portfolio website with a dark galaxy theme that can be deployed to GitH
 - Font Awesome for icons
 - Google Fonts for typography
 - Background images from [Imgur](https://imgur.com/)
-\`\`\`
 
-Finally, let's add a simple GitHub Pages configuration file:
